@@ -11,10 +11,10 @@ ruby lib/runner.rb
 >
 ```
 Updated: 2016-08-04 10:30:13 -0600 (15 seconds ago)
-ID	Station Name			Bikes	Docks
-1686	Market Street Station    	17	04
-1799	1450 Wazee               	11	04
-3397	16th & Chestnut          	14	04
+ID   	Station Name			        Bikes	Docks
+1686	Market Street Station    	17  	04
+1799	1450 Wazee               	11  	04
+3397	16th & Chestnut          	14  	04
 ```
 
 
